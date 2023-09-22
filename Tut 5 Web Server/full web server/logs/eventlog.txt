@@ -1,0 +1,5 @@
+20230806	 15:18:57	 de3a6292-fca5-4c40-8335-f3f7be607605 	 /css/style.css 	 GET
+20230806	 15:18:57	 ca8c51d4-af52-469d-8e26-16f6c89b42a1 	 /new-page.html 	 GET
+20230806	 15:18:57	 e0c8607b-de35-4406-841f-fe7bc574615d 	 /img/profile-800x800.png 	 GET
+20230806	 15:18:57	 308dd378-564f-403a-a9c0-64a818c2760c 	 /favicon.ico 	 GET
+20230806	 15:18:57	 f8116ad8-d48b-4e0a-9291-41a39bdd9dc3 	 Error 	 ENOENT: no such file or directory, open 'F:\PROGRAMMING HARSH\Node JS\Tut 5 Web Server\view\404.html'
